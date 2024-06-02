@@ -1,2 +1,9 @@
-Django>=4.2.10
+Django
+Pillow
 gunicorn
+django-heroku
+django-bootstrap5
+django-bootstrap-v5
+django-allauth==0.61.1
+django-storages
+boto3
