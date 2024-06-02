@@ -1,2 +1,2 @@
 release: python manage.py migrate
-web: gunicorn workplace_violation_project.wsgi
+web: gunicorn_windows your_project_name.wsgi --log-file -
