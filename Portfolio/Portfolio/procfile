@@ -1,2 +1,2 @@
 release: python manage.py migrate
-web: gunicorn_windows your_project_name.wsgi --log-file -
+web: gunicorn portfolio_site.wsgi --log-file -
