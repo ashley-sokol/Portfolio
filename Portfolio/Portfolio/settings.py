@@ -28,7 +28,7 @@ SECRET_KEY = os.environ.get('SECRET_KEY', 'your-default-secret-key')
 DEBUG = os.environ.get('DEBUG', 'False') == 'True'
 
 ALLOWED_HOSTS = [
-    'https://ashleysokol-9d70ad6d0bb4.herokuapp.com/'
+    'ashleysokol-9d70ad6d0bb4.herokuapp.com/'
 ]
 
 
